@@ -1,0 +1,29 @@
+{
+ "name": "Catalog piese Cavan C1",
+ "short_name": "Cavan C1",
+ "description": "Catalog piese de schimb Cavan C1 / C1 Plus — Inter Cargo Grup",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#eef1f3",
+ "theme_color": "#0a7d74",
+ "lang": "ro",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
